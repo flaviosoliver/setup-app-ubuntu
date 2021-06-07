@@ -1,14 +1,10 @@
 # setup-app-ubuntu
 Setup de Programas no Ubuntu
 
+Check-list e instruções de instalação de programas ideais no Ubuntu.
+Programas essenciais para Desenvolvimento Web (Trybe) e personalização de ambiente para uma melhor experiência de uso, onde priorizei instalação por pacote DEB ou pelo método apt, sem fazer uso de pacotes Snap. Setup realizado na versão Ubuntu 20.04 LTS
+
 <table border="0" cellspacing="0" cellpadding="0" class="ta1">
-        <colgroup>
-            <col width="212" />
-            <col width="58" />
-            <col width="157" />
-            <col width="259" />
-            <col width="205" />
-        </colgroup>
         <tr class="ro1">
             <td style="text-align:left;width:4.856cm; " class="Default">
                 <p>Name</p>
