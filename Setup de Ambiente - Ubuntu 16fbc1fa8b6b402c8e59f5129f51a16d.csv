@@ -1,0 +1,24 @@
+﻿Name,Check,Editado,Tag Descrição,Tag Método
+Node.JS,No,"Jun 7, 2021 6:27 PM",Desenvolvimento JavaScript,APT
+NPM,No,"Jun 7, 2021 6:27 PM",Gerenciador de Pacotes Node.JS,APT
+Fira Code,No,"Jun 7, 2021 6:27 PM",Fonte de Texto,
+ZSH,No,"Jun 7, 2021 6:28 PM",Terminal Shell,APT
+Oh My ZSH,No,"Jun 7, 2021 6:28 PM",Plugin para ZSH,Shell Script
+Git,No,"Jun 7, 2021 6:28 PM",Versionamento de Código,APT
+Chave SSH - GitHub,No,"Jun 7, 2021 6:28 PM",Chave SSH para Git,Shell Script
+MySQL,No,"Jun 7, 2021 6:28 PM",Banco de Dados SQL,APT
+MySQL Workbench,No,"Jun 7, 2021 6:28 PM",Cliente para MySQL,Arquivo DEB/APT
+MongoDB,No,"Jun 7, 2021 6:28 PM",Banco de Dados NoSQL,WGET/APT
+MongoDB Compass,No,"Jun 7, 2021 6:28 PM",Cliente para MongoDB,Arquivo DEB
+Insomnia Rest,No,"Jun 7, 2021 6:28 PM",Cliente REST API,Arquivo DEB/APT
+Java,No,"Jun 7, 2021 6:28 PM",Plataforma Java,Arquivo TAR.GZ
+Google Chrome,No,"Jun 7, 2021 6:28 PM",Navegador Web,Arquivo DEB
+Nemo,No,"Jun 7, 2021 6:28 PM",Gerenciador de Arquivos para Linux,APT
+Visual Studio Code,No,"Jun 7, 2021 6:28 PM",Editor de Código Fonte,Arquivo DEB
+Zoom,No,"Jun 7, 2021 6:28 PM",Cliente de Reuniões Virtuais,Arquivo DEB
+Slack,No,"Jun 7, 2021 6:28 PM",Ferramenta de Comunicação,Arquivo DEB
+LibreOffice,No,"Jun 7, 2021 6:28 PM",Pacote de Escritório,APT
+Spotify,No,"Jun 7, 2021 6:28 PM",Cliente Spotify,Arquivo DEB ou CURL/APT
+Flameshot,No,"Jun 7, 2021 6:28 PM",Ferramenta de Screenshot,APT
+Tweaks - Gnome Extensions,No,"Jun 7, 2021 6:28 PM",Extensões Gnome,APT
+Notepad++,No,"Jun 7, 2021 6:28 PM",Editor de Texto e Código Fonte,APT
