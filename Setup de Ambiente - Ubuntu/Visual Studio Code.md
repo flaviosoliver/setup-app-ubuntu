@@ -13,7 +13,7 @@ Tag Método: Arquivo DEB
 
 2. Baixe o pacote `DEB`
 
-    ![Visual%20Studio%20Code%2069ec0eafbd1a4bf78fd779d2b4ec2150/Untitled.png](Visual%20Studio%20Code%2069ec0eafbd1a4bf78fd779d2b4ec2150/Untitled.png)
+    ![Visual%20Studio%20Code/Untitled.png](Visual%20Studio%20Code/Untitled.png)
 
 3. Um arquivo `DEB` será baixado com a versão estável mais recente
 

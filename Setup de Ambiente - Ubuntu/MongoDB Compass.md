@@ -9,11 +9,11 @@ Tag Método: Arquivo DEB
 
     [MongoDB Compass Download](https://www.mongodb.com/try/download/compass)
 
-    ![MongoDB%20Compass%20ca811399020348b9bc3c225b39cbd50d/Untitled.png](MongoDB%20Compass%20ca811399020348b9bc3c225b39cbd50d/Untitled.png)
+    ![MongoDB%20Compass/Untitled.png](MongoDB%20Compass/Untitled.png)
 
 2. Se o seu sistema tiver suporte a instalação de pacote DEB por meio de um gerenciador, basta executar arquivo e mandar o Gerenciador instalar
 
-    ![MongoDB%20Compass%20ca811399020348b9bc3c225b39cbd50d/Untitled%201.png](MongoDB%20Compass%20ca811399020348b9bc3c225b39cbd50d/Untitled%201.png)
+    ![MongoDB%20Compass/Untitled%201.png](MongoDB%20Compass/Untitled%201.png)
 
 - **Ou...**
     1. A instalação do `DEB` pode ser feito também pelo terminal
