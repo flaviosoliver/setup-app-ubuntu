@@ -11,7 +11,7 @@ Entre no site e faça o download do pacote `tar.gz`
 
 [Download Java for Linux](https://www.java.com/pt-BR/download/)
 
-![Java%20798cfad14ded477a85db422bb1b6b766/Untitled.png](Java%20798cfad14ded477a85db422bb1b6b766/Untitled.png)
+![Java/Untitled.png](Java/Untitled.png)
 
 ### Instalação
 

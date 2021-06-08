@@ -7,7 +7,7 @@ Tag Método: APT
 
 - O Ubuntu traz o Nautilus como Gerenciador de Arquivos padrão. Gosto de usar o Nemo, que é muito eficiente, ótimo layout e boas funcionalidades. Recomendo.
 
-    ![Nemo%20a51bba54cf0e4a49aa250c98fd6336a7/Untitled.png](Nemo%20a51bba54cf0e4a49aa250c98fd6336a7/Untitled.png)
+    ![Nemo/Untitled.png](Nemo/Untitled.png)
 
     ### Instalação
 

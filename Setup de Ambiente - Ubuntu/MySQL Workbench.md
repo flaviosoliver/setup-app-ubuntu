@@ -13,13 +13,13 @@ Tag Método: Arquivo DEB/APT
 
 2. Realizar o download da versão mais recente conforme seu sistema operacional
 
-    ![MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled.png](MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled.png)
+    ![MySQL%20Workbench/Untitled.png](MySQL%20Workbench/Untitled.png)
 
 ### Instalação
 
 1. Se o seu sistema tiver suporte a instalação de pacote `DEB` por meio de um gerenciador, basta executar arquivo e mandar o Gerenciador instalar
 
-    ![MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%201.png](MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%201.png)
+    ![MySQL%20Workbench/Untitled%201.png](MySQL%20Workbench/Untitled%201.png)
 
 - **Ou...**
     1. A instalação do `DEB` pode ser feito também pelo terminal
@@ -44,7 +44,7 @@ Tag Método: Arquivo DEB/APT
 
     - Caso apareçam problemas de ausência de dependências e não consiga instalar essas versões desejadas pelo pacote do Workbench
 
-        ![MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%202.png](MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%202.png)
+        ![MySQL%20Workbench/Untitled%202.png](MySQL%20Workbench/Untitled%202.png)
 
         Execute o comando
 
@@ -62,11 +62,11 @@ Tag Método: Arquivo DEB/APT
 
     Ao instalar via Snap, pode surgir um problema de permissão de acesso para o serviço do MySQL, que pode ser resolvido dando permissão ao aplicativo para gerenciar senhas e fazer uso de chaves SSH. Entre nas `Configurações do Sistema`, vá em na seção de `Aplicativos` e escolha o `MySQL Workbench`. Nas suas `Permissões & acesso`, autorize essas duas opções:
 
-    ![MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%203.png](MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%203.png)
+    ![MySQL%20Workbench/Untitled%203.png](MySQL%20Workbench/Untitled%203.png)
 
 - Sistemas **não-baseados** em **Debian/Ubuntu** podem instalar o MySQL Workbench via `apt`
 
-    ![MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%204.png](MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%204.png)
+    ![MySQL%20Workbench/Untitled%204.png](MySQL%20Workbench/Untitled%204.png)
 
     1. Atualize a lista de repositórios
 
@@ -82,7 +82,7 @@ Tag Método: Arquivo DEB/APT
 
 ### Personalização do Editor de Query ao estilo Monokay
 
-![MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%205.png](MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%205.png)
+![MySQL%20Workbench/Untitled%205.png](MySQL%20Workbench/Untitled%205.png)
 
 1. Copie o arquivo `XML` de configuração do editor para um outro local, como exemplo, sua pasta `Documentos`. Seu nome é `code_editor.xml` e fica na pasta
 
@@ -91,7 +91,7 @@ Tag Método: Arquivo DEB/APT
 2. Abra essa cópia com o editor de texto da sua preferência
 3. Agora, dentro da tag `<language name="SCLEX_MYSQL">`, localize o código da formatação atual, que pode ser que esteja mais ou menos na linha 50, verifique.
 
-    ![MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%206.png](MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%206.png)
+    ![MySQL%20Workbench/Untitled%206.png](MySQL%20Workbench/Untitled%206.png)
 
 4. Selecione todo esse trecho de tags `<style />` de código, apague e em seu lugar insira
 
@@ -174,7 +174,7 @@ Tag Método: Arquivo DEB/APT
 
     Onde aqui ele moverá o arquivo da pasta onde está para a pasta do MySQL Workbench, criando uma cópia de segurança do arquivo original, ficando assim
 
-    ![MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%207.png](MySQL%20Workbench%206516982e824047279bca0d5e4d4654d7/Untitled%207.png)
+    ![MySQL%20Workbench/Untitled%207.png](MySQL%20Workbench/Untitled%207.png)
 
 7. Ao abrir o Workbench no próximo uso, verá que o editor já se encontrará com a nova formatação
 

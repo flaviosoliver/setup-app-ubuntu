@@ -17,7 +17,7 @@ Tag Método: Arquivo DEB/APT
 
     Se o seu sistema tiver suporte a instalação de pacote `DEB` por meio de um gerenciador, basta executar arquivo e mandar o Gerenciador instalar
 
-    ![Insomnia%20Rest%200afabee19e9e48dc99008aec110ac996/Untitled.png](Insomnia%20Rest%200afabee19e9e48dc99008aec110ac996/Untitled.png)
+    ![Insomnia%20Rest/Untitled.png](Insomnia%20Rest/Untitled.png)
 
 **Ou...**
 

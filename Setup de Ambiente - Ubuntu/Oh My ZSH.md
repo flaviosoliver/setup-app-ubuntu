@@ -31,13 +31,13 @@ Tag Método: Shell Script
 
     Como exemplo: `ZSH_THEME="aussiegeek"`
 
-    ![Oh%20My%20ZSH%20d14721cb63dd41bc875c9eaedf85a53f/Untitled.png](Oh%20My%20ZSH%20d14721cb63dd41bc875c9eaedf85a53f/Untitled.png)
+    ![Oh%20My%20ZSH/Untitled.png](Oh%20My%20ZSH/Untitled.png)
 
     Salve o arquivo pelo teclado `CRTL O`
 
     Fechar Nano pelo teclado `CRTL X`
 
-    ![Oh%20My%20ZSH%20d14721cb63dd41bc875c9eaedf85a53f/Untitled%201.png](Oh%20My%20ZSH%20d14721cb63dd41bc875c9eaedf85a53f/Untitled%201.png)
+    ![Oh%20My%20ZSH/Untitled%201.png](Oh%20My%20ZSH/Untitled%201.png)
 
 5.  Tem vários outros plugins, podem ser vistos aqui:
 
@@ -69,4 +69,4 @@ Tag Método: Shell Script
 
     Fechar Nano pelo teclado `CRTL X`
 
-    ![Oh%20My%20ZSH%20d14721cb63dd41bc875c9eaedf85a53f/Untitled%201.png](Oh%20My%20ZSH%20d14721cb63dd41bc875c9eaedf85a53f/Untitled%201.png)
+    ![Oh%20My%20ZSH/Untitled%201.png](Oh%20My%20ZSH/Untitled%201.png)

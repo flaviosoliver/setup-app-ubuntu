@@ -86,25 +86,25 @@ Se o seu arquivo de chave pública SSH tiver um nome diferente do código de exe
 
 2. No canto superior direito de qualquer página, clique na sua foto de perfil e, em seguida, clique em Configurações.
 
-    ![Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled.png](Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled.png)
+    ![Chave%20SSH%20-%20GitHub/Untitled.png](Chave%20SSH%20-%20GitHub/Untitled.png)
 
 3. Na barra lateral de configurações do usuário, clique em chaves SSH e GPG.
 
-    ![Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled%201.png](Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled%201.png)
+    ![Chave%20SSH%20-%20GitHub/Untitled%201.png](Chave%20SSH%20-%20GitHub/Untitled%201.png)
 
 4. Clique em New SSH key (Nova chave SSH) ou Add SSH key (Adicionar chave SSH).
 
-    ![Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled%202.png](Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled%202.png)
+    ![Chave%20SSH%20-%20GitHub/Untitled%202.png](Chave%20SSH%20-%20GitHub/Untitled%202.png)
 
 5. No campo "Title" (Título), adicione uma etiqueta descritiva para a nova chave. Por exemplo: "Chave Ubuntu".
 6. Cole	sua chave no campo "Key" (Chave).
 
-    ![Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled%203.png](Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled%203.png)
+    ![Chave%20SSH%20-%20GitHub/Untitled%203.png](Chave%20SSH%20-%20GitHub/Untitled%203.png)
 
 7. Clique em Add SSH key (Adicionar chave SSH).
 
-    ![Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled%204.png](Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled%204.png)
+    ![Chave%20SSH%20-%20GitHub/Untitled%204.png](Chave%20SSH%20-%20GitHub/Untitled%204.png)
 
 8. Se solicitado, confirme sua senha do GitHub.
 
-    ![Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled%205.png](Chave%20SSH%20-%20GitHub%20c5b7b1a270424326878c43528b1805ee/Untitled%205.png)
+    ![Chave%20SSH%20-%20GitHub/Untitled%205.png](Chave%20SSH%20-%20GitHub/Untitled%205.png)
